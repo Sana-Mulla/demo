@@ -5,14 +5,14 @@
 #for i in range(1,11):
 #       print(i)
 
-'''
-printing no from 30 to 20 using while loop.
+
+#printing no from 30 to 20 using while loop.
 
 i=30
 while i>=20:
         print(i)
         i-=1
-'''
+
 
 # Print even no from 20 to 40.
 '''
